@@ -40,6 +40,8 @@ I'm Carlos Osorio Quero
 ![DS](https://img.shields.io/badge/-Solidworks-005386?style=flat&logo=dassaultsystemes&logoColor=white)
 ![L](https://img.shields.io/badge/-LabVIEW-FFDB00?style=flat&logo=labview&logoColor=white)
 ![O](https://img.shields.io/badge/-Octave-0790C0?style=flat&logo=octave&logoColor=white)
+![DL](https://img.shields.io/badge/-DeepL-0F2B46?style=flat&logo=deepl&logoColor=white)
+
 
 ## 📊 My GitHub Stats
 
