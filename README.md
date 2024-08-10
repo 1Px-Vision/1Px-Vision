@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![Latex](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![GPU](https://img.shields.io/badge/-NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white)
 ![A](https://img.shields.io/badge/-AltiumDesigner-A5915F?style=flat&logo=altiumdesigner&logoColor=white)
-![DS](https://img.shields.io/badge/-Dassault-Systèmes-005386?style=flat&logo=dassaultsystemes&logoColor=white)
+![DS](https://img.shields.io/badge/-DassaultSystèmes-005386?style=flat&logo=dassaultsystemes&logoColor=white)
 
 
 
