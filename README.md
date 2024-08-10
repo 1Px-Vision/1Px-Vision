@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 Reach me at caoq@1px-vision.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-osorio-528b3188/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@your-medium-profile)
+[![Medium](https://img.shields.io/website?url=https%3A%2F%2Fwww.1px-vision.com%2F)](https://medium.com/@your-medium-profile)
 
 
 ## Tools I like to use
