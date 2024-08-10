@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 [![Medium](https://img.shields.io/website?url=https%3A%2F%2Fwww.1px-vision.com%2F)](https://www.1px-vision.com/)
 [![R](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Carlos-Osorio-11)
 [![O](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4092-127X)
-[![S](https://img.shields.io/badge/-Google Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Ro7a0EIAAAAJ&hl=en)
+[![S](https://img.shields.io/badge/-GoogleScholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Ro7a0EIAAAAJ&hl=en)
 
 
 ## Tools I like to use
