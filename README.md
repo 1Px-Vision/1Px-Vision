@@ -41,6 +41,8 @@ I'm Carlos Osorio Quero
 ![L](https://img.shields.io/badge/-LabVIEW-FFDB00?style=flat&logo=labview&logoColor=white)
 ![O](https://img.shields.io/badge/-Octave-0790C0?style=flat&logo=octave&logoColor=white)
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=[my_repo_address]&project=MY_REPO.prj)
+![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=white)
+
 
 
 ## 📊 My GitHub Stats
