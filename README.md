@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Ansys](https://img.shields.io/badge/-Ansys-FFB71B?style=flat&logo=ansys&logoColor=white)
-
+![Altium](https://img.shields.io/badge/-Altium Designer-A5915F?style=flat&logo=altiumdesigner&logoColor=white)
 
