@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ![Ansys](https://img.shields.io/badge/-Ansys-FFB71B?style=flat&logo=ansys&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Latex](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?style=flat&logo=overleaf&logoColor=white)
 ![GPU](https://img.shields.io/badge/-NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white)
 ![A](https://img.shields.io/badge/-AltiumDesigner-A5915F?style=flat&logo=altiumdesigner&logoColor=white)
 ![DS](https://img.shields.io/badge/-Solidworks-005386?style=flat&logo=dassaultsystemes&logoColor=white)
