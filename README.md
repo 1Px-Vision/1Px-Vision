@@ -2,7 +2,7 @@
 
 **1Px-Vision** GitHub profile.
 
-Here are some ideas to get you started:
+I'm Carlos Osorio Quero
 
 - 🔭 Currently working on advanced vision technology, Deep Reinforcement Learning and Space Technology.
 - 🌱 Learning more about deep learning, HPC and Space Technology
