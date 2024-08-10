@@ -25,4 +25,6 @@ Here are some ideas to get you started:
 ![Ansys](https://img.shields.io/badge/-Ansys-FFB71B?style=flat&logo=ansys&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Latex](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![GPU](https://img.shields.io/badge/-NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white)
+
 
