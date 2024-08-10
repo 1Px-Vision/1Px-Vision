@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 ![GPU](https://img.shields.io/badge/-NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white)
 ![A](https://img.shields.io/badge/-AltiumDesigner-A5915F?style=flat&logo=altiumdesigner&logoColor=white)
 ![DS](https://img.shields.io/badge/-Solidworks-005386?style=flat&logo=dassaultsystemes&logoColor=white)
+![L](https://img.shields.io/badge/-LabVIEW-FFDB00?style=flat&logo=labview&logoColor=white)
+
 
 
 
