@@ -41,6 +41,10 @@ Here are some ideas to get you started:
 ![L](https://img.shields.io/badge/-LabVIEW-FFDB00?style=flat&logo=labview&logoColor=white)
 ![O](https://img.shields.io/badge/-Octave-0790C0?style=flat&logo=octave&logoColor=white)
 
+## 📊 My GitHub Stats
+
+![1Px-Vision's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1Px-Vision&show_icons=true&theme=dark&hide_border=true&rank_icon=github&count_private=true)
+
 
 
 
