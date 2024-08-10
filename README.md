@@ -45,6 +45,11 @@ Here are some ideas to get you started:
 
 ![1Px-Vision's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1Px-Vision&show_icons=true&theme=dark&hide_border=true&rank_icon=github&count_private=true)
 
+## 🧑‍💻 My Programming Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1Px-Vision&layout=compact&theme=dark&hide_border=true)
+
+
 
 
 
