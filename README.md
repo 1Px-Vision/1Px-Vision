@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Latex](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![GPU](https://img.shields.io/badge/-NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white)
-![A](https://img.shields.io/badge/-Altium Designer-A5915F?style=flat&logo=altiumdesigner&logoColor=white)
+![A](https://img.shields.io/badge/-AltiumDesigner-A5915F?style=flat&logo=altiumdesigner&logoColor=white)
 
 
 
