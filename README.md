@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-osorio-528b3188/)
 [![Medium](https://img.shields.io/website?url=https%3A%2F%2Fwww.1px-vision.com%2F)](https://www.1px-vision.com/)
 [![R](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Carlos-Osorio-11)
+[![O](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4092-127X)
+
 
 
 ## Tools I like to use
