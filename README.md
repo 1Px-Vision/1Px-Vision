@@ -7,7 +7,7 @@ I'm Carlos A. Osorio Quero,PhD.
 - 🔭 Currently working on advanced vision technology, Deep Reinforcement Learning and Space Technology.
 - 🌱 Learning more about deep learning, HPC and Space Technology
 - 👯 Looking to collaborate on innovative AI projects.
-- 📫 Reach me at caoq@1px-vision.com
+- 📫 Reach me at cosorio@ictp.it;caoq@1px-vision.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-osorio-528b3188/)
 [![Medium](https://img.shields.io/website?url=https%3A%2F%2Fwww.1px-vision.com%2F)](https://www.1px-vision.com/)
